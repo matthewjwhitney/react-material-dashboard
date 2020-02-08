@@ -2,22 +2,45 @@
   "name": "react-material-dashboard",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
-    "@testing-library/user-event": "^7.2.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.3.1"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "dependencies": {
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^8.1.0",
+    "chartist": "^0.11.4",
+    "history": "^4.10.1",
+    "moment": "^2.24.0",
+    "node-sass": "^4.13.1",
+    "nouislider": "^14.1.1",
+    "perfect-scrollbar": "^1.5.0",
+    "react": "^16.12.0",
+    "react-big-calendar": "^0.23.0",
+    "react-bootstrap-sweetalert": "^5.1.9",
+    "react-chartist": "^0.14.2",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.12.0",
+    "react-google-maps": "^9.4.5",
+    "react-jvectormap": "0.0.15",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.1",
+    "react-swipeable-views": "^0.13.8",
+    "react-table": "^6.11.5",
+    "react-tagsinput": "^3.19.0"
+  },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
   },
   "browserslist": {
     "production": [
