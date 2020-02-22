@@ -15,7 +15,7 @@ import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Table from "components/Table/Table.js";
 import Timeline from "components/Timeline/Timeline.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import CustomTabs from "components/CustomTabs/CustomTabs.js";
 import Tasks from "components/Tasks/Tasks.js";
 import Card from "components/Card/Card.js";

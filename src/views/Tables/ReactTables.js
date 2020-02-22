@@ -12,7 +12,7 @@ import Close from "@material-ui/icons/Close";
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
 import CardIcon from "components/Card/CardIcon.js";

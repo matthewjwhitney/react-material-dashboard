@@ -27,7 +27,7 @@ import {
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Table from "components/Table/Table.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Danger from "components/Typography/Danger.js";
 import Card from "components/Card/Card.js";
 import CardHeader from "components/Card/CardHeader.js";

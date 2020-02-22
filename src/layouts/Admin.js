@@ -9,7 +9,7 @@ import "perfect-scrollbar/css/perfect-scrollbar.css";
 import { makeStyles } from "@material-ui/core/styles";
 
 // core components
-import AdminNavbar from "components/Navbars/AdminNavbar.js";
+import AdminNavbar from "components/Navbar/AdminNavbar.js";
 import Footer from "components/Footer/Footer.js";
 import Sidebar from "components/Sidebar/Sidebar.js";
 import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";

@@ -17,7 +17,7 @@ import Heading from "components/Heading/Heading.js";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import SnackbarContent from "components/Snackbar/SnackbarContent.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Snackbar from "components/Snackbar/Snackbar.js";
 import Instruction from "components/Instruction/Instruction.js";
 import Card from "components/Card/Card.js";

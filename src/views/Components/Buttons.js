@@ -16,7 +16,7 @@ import Favorite from "@material-ui/icons/Favorite";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Pagination from "components/Pagination/Pagination.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
 

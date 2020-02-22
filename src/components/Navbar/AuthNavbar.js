@@ -4,14 +4,16 @@ import PropTypes from "prop-types";
 import { NavLink } from "react-router-dom";
 
 // @material-ui/core components
-import { makeStyles } from "@material-ui/core/styles";
-import AppBar from "@material-ui/core/AppBar";
-import Toolbar from "@material-ui/core/Toolbar";
-import Hidden from "@material-ui/core/Hidden";
-import Drawer from "@material-ui/core/Drawer";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
-import ListItemText from "@material-ui/core/ListItemText";
+import {
+  makeStyles,
+  AppBar,
+  Toolbar,
+  Hidden,
+  Drawer,
+  List,
+  ListItem,
+  ListItemText
+} from "@material-ui/core/";
 
 // @material-ui/icons
 import Dashboard from "@material-ui/icons/Dashboard";
@@ -22,7 +24,7 @@ import LockOpen from "@material-ui/icons/LockOpen";
 import MonetizationOn from "@material-ui/icons/MonetizationOn";
 
 // core components
-import Button from "components/CustomButtons/Button";
+import Button from "components/Button";
 
 import styles from "assets/jss/material-dashboard-pro-react/components/authNavbarStyle.js";
 

@@ -17,7 +17,7 @@ import KeyboardArrowRight from "@material-ui/icons/KeyboardArrowRight";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Table from "components/Table/Table.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
 import CardIcon from "components/Card/CardIcon.js";

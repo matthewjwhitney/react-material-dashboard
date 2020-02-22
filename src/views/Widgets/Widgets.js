@@ -13,7 +13,7 @@ import FormatQuote from "@material-ui/icons/FormatQuote";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Table from "components/Table/Table.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import Timeline from "components/Timeline/Timeline.js";
 import CustomTabs from "components/CustomTabs/CustomTabs.js";
 import Tasks from "components/Tasks/Tasks.js";

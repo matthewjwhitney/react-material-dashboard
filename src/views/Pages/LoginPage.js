@@ -14,11 +14,8 @@ import Email from "@material-ui/icons/Email";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import CustomInput from "components/CustomInput/CustomInput.js";
-import Button from "components/CustomButtons/Button.js";
-import Card from "components/Card/Card.js";
-import CardBody from "components/Card/CardBody.js";
-import CardHeader from "components/Card/CardHeader.js";
-import CardFooter from "components/Card/CardFooter.js";
+import Button from "components/Button";
+import { Card, CardBody, CardHeader, CardFooter } from "components/Card";
 
 import styles from "assets/jss/material-dashboard-pro-react/views/loginPageStyle.js";
 

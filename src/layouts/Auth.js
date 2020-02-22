@@ -5,7 +5,7 @@ import { Switch, Route, Redirect } from "react-router-dom";
 import { makeStyles } from "@material-ui/core/styles";
 
 // core components
-import AuthNavbar from "components/Navbars/AuthNavbar.js";
+import AuthNavbar from "components/Navbar/AuthNavbar.js";
 import Footer from "components/Footer/Footer.js";
 
 import routes from "routes.js";

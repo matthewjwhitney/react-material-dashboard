@@ -19,7 +19,7 @@ import Check from "@material-ui/icons/Check";
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import CustomInput from "components/CustomInput/CustomInput.js";
 import InfoArea from "components/InfoArea/InfoArea.js";
 import Card from "components/Card/Card.js";

@@ -4,7 +4,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 
 // core components
-import Button from "components/CustomButtons/Button.js";
+import Button from "components/Button";
 import CustomInput from "components/CustomInput/CustomInput.js";
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
