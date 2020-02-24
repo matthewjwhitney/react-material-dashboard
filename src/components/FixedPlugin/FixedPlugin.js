@@ -6,6 +6,7 @@ import PropTypes from "prop-types";
 
 import { makeStyles } from "@material-ui/core/styles";
 import Switch from "@material-ui/core/Switch";
+import { Settings } from "@material-ui/icons";
 
 import styles from "assets/jss/material-dashboard-pro-react/customCheckboxRadioSwitch.js";
 
@@ -49,8 +50,8 @@ export default function FixedPlugin(props) {
       className={"fixed-plugin" + (props.rtlActive ? " fixed-plugin-rtl" : "")}
     >
       <div id="fixedPluginClasses" className={props.fixedClasses}>
-        <div onClick={handleClick}>
-          <i className="fa fa-cog fa-2x" />
+        <div onClick={handleClick} style={{ padding: "12px 12px 8px 12px" }}>
+          <Settings fontSize="large" />
         </div>
         <ul className="dropdown-menu">
           <li className="header-title">SIDEBAR FILTERS</li>
